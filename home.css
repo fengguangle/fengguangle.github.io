@@ -1,0 +1,30 @@
+#navbar {
+    font-size: 12pt;
+    font-family: 'Helvetica Bold', Charcoal, 'Arial Black', sans-serif}
+#navbar a:link {
+    color: maroon;
+    text-decoration: none}
+#navbar a:visited {
+    color: maroon;
+    text-decoration: none}
+#navbar a:hover {
+    text-decoration: underline}
+#navbar hr {
+    height: 2px;
+    color: maroon;
+    background-color: maroon;
+    border:none
+}
+
+body, p{font:12px/170% Verdana,sans-serif;color:#494949;}
+h1,h2,h3,h4,h5,h6{font-weight:normal;
+    font-family:Helvetica,Arial,sans-serif;}
+h1{font-size:170%;}
+h2{font-size:160%;line-height:130%;}
+h3{font-size:140%;}
+h4{font-size:130%;}
+h5{font-size:120%;}
+h6{font-size:110%;}
+a:link,a:visited{color:#027AC6;text-decoration:none;}
+a:hover{color:#0062A0;text-decoration:underline;}
+a:active,a.active{color:#5895be;}
